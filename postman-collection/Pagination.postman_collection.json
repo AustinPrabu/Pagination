@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "feae6e75-fe15-4078-b037-149e82e4ae6a",
+		"name": "Pagination",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "customer",
+			"item": [
+				{
+					"name": "getCustomer",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
